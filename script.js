@@ -17,3 +17,4 @@ function fillSampleText() {
 			sampleText.innerHTML = loadFileAndReturn("https://jpermsolves.github.io/coding-quiz/html.txt");
 	}
 }
+fillSampleText();
